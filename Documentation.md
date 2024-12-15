@@ -20,8 +20,9 @@ It provides implementations for Linked Lists, Queues, Stacks, Sorting algorithms
   - Searching Algorithms
 - Contributing
 
+---
 
-Overview
+##Overview
 This library provides efficient implementations of various data structures, including different types of linked lists, stack, queue, and
 popular sorting and searching algorithms. It is designed to help developers understand and utilize data structures in Python projects.
 

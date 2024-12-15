@@ -40,10 +40,11 @@ popular sorting and searching algorithms. It is designed to help developers unde
 3. Use the modules by importing them into your Python scripts.
 
 
-## Usage
+### Usage
 Import the required module in your Python project to use the desired data structure or algorithm.
 For example:
 
+```python
 from DataStructures.linkedlist import LinkedList
 from DataStructures.sort import bubble_sort
 
@@ -58,6 +59,7 @@ arr = [64, 34, 25, 12, 22, 11, 90]
 sorted_arr = bubble_sort(arr)
 print("Sorted array:", sorted_arr)
 
+```
 
 ## Features
 
